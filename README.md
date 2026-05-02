@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there 🚲
+
+My name is Vitamins, and I'm a network engineer from Toronto, Canada. I enjoy mountains, oceans, hikes, bikes, and fresh air. Currently learning how to program so I can contribute to projects that are useful and meaningful to me. 
+
+🧠 Experience:
+Palo Alto PCNSA, Cisco CCNA, AWS CCP, Microsoft AZ-900, Python, Bash
+
+📫 How to reach me: 
+TBD
+
 
 <!--
 **oneadayvitamins/oneadayvitamins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
