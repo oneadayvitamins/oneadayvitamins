@@ -5,6 +5,9 @@ My name is Vitamins, and I'm a network engineer from Toronto, Canada. I enjoy mo
 🧠 Experience:
 Palo Alto PCNSA, Cisco CCNA, AWS CCP, Microsoft AZ-900, Python, Bash
 
+🔧 WIP:
+C Programming
+
 📫 How to reach me: 
 TBD
 
